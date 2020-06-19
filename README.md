@@ -1,1 +1,3 @@
 # FrequentistML
+
+Statistical inference, exploratory data analysis and data visualization. Linear regression methods such as ridge, LASSO, elastic net. Classification methods such as logistic regression, SVM. Regularization and feature selection methods. Additive models. Classification and regression trees including random forests and extreme gradient boosting. Model selection and cross validation. Clustering methods such as K-nearest neighbors, spectral clustering. Unsupervised learning methods such as market basket analysis and the a-priori method. Non-negative matrix factorization and recommendation systems.
